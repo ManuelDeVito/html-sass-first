@@ -5,13 +5,13 @@ h1 {
 }
 
 p {
-  background-color: blue;
-  color: lightblue;
+  background-color: green;
+  color: yellow;
   font-size: 20px;
 }
 
 button {
-  background-color: green;
+  background-color: red;
   color: orange;
   font-size: 20px;
   padding: 20px;

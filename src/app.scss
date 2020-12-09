@@ -1,10 +1,9 @@
 $background-titolo: red;
 $colore-titolo: orange;
 $font-titolo: 50px;
-$background-paragrafo: blue;
-$colore-paragrafo: lightblue;
+$background-paragrafo: green;
+$colore-paragrafo: yellow;
 $font-paragrafo: 20px;
-$background-bottone: green;
 $padding-bottone: 20px;
 
 
@@ -23,7 +22,7 @@ p {
 
 
 button {
-    background-color: $background-bottone;
+    background-color: $background-titolo;
     color: $colore-titolo ;
     font-size: $font-paragrafo;
     padding: $padding-bottone;
