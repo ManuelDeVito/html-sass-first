@@ -1,0 +1,30 @@
+$background-titolo: red;
+$colore-titolo: orange;
+$font-titolo: 50px;
+$background-paragrafo: blue;
+$colore-paragrafo: lightblue;
+$font-paragrafo: 20px;
+$background-bottone: green;
+$padding-bottone: 20px;
+
+
+h1 {
+    background-color: $background-titolo;
+    color: $colore-titolo;
+    font-size: $font-titolo;
+}
+
+p {
+    background-color: $background-paragrafo;
+    color: $colore-paragrafo;
+    font-size: $font-paragrafo;
+}
+
+
+
+button {
+    background-color: $background-bottone;
+    color: $colore-titolo ;
+    font-size: $font-paragrafo;
+    padding: $padding-bottone;
+}
